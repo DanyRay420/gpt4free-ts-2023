@@ -1544,15 +1544,14 @@ koa-convert@^2.0.0:
     co "^4.6.0"
     koa-compose "^4.1.0"
 
-koa-router@^12.0.0:
-  version "12.0.0"
-  resolved "https://registry.npmjs.org/koa-router/-/koa-router-12.0.0.tgz"
-  integrity sha512-zGrdiXygGYW8WvrzeGsHZvKnHs4DzyGoqJ9a8iHlRkiwuEAOAPyI27//OlhoWdgFAEIM3qbUgr0KCuRaP/TCag==
+koa-router@^13.0.1:
+  version "13.0.1"
+  resolved "https://registry.yarnpkg.com/koa-router/-/koa-router-13.0.1.tgz#09607d35011960847b864231e3d502e28509866b"
+  integrity sha512-4/sijXdSxocIe2wv7RFFSxvo2ic1pDzPSmy11yCGztng1hx408qfw1wVmN3aqhQaU7U6nJ039JKC8ObE73Ohgw==
   dependencies:
     http-errors "^2.0.0"
     koa-compose "^4.1.0"
-    methods "^1.1.2"
-    path-to-regexp "^6.2.1"
+    path-to-regexp "^8.1.0"
 
 koa@^2.14.2:
   version "2.14.2"
@@ -1653,11 +1652,6 @@ merge2@^1.3.0, merge2@^1.4.1:
   version "1.4.1"
   resolved "https://registry.npmmirror.com/merge2/-/merge2-1.4.1.tgz#4368892f885e907455a6fd7dc55c0c9d404990ae"
   integrity sha512-8q7VEgMJW4J8tcfVPy8g09NcQwZdbwFEqhe/WZkoIzjn/3TGDwtOCYtXGxA3O8tPzpczCCDgv+P2P5y00ZJOOg==
-
-methods@^1.1.2:
-  version "1.1.2"
-  resolved "https://registry.npmjs.org/methods/-/methods-1.1.2.tgz"
-  integrity sha512-iclAHeNqNm68zFtnZ0e+1L2yUIdvzNoauKU4WBA3VvH/vPFieF7qfRlwUZU+DA9P9bPXIS90ulxoUoCH23sV2w==
 
 micromatch@^4.0.4:
   version "4.0.5"
@@ -1852,10 +1846,10 @@ path-key@^4.0.0:
   resolved "https://registry.npmmirror.com/path-key/-/path-key-4.0.0.tgz#295588dc3aee64154f877adb9d780b81c554bf18"
   integrity sha512-haREypq7xkM7ErfgIyA0z+Bj4AGKlMSdlQE2jvJo6huWD1EdkKYV+G/T4nq0YEF2vgTT8kqMFKo1uHn950r4SQ==
 
-path-to-regexp@^6.2.1:
-  version "6.2.1"
-  resolved "https://registry.npmjs.org/path-to-regexp/-/path-to-regexp-6.2.1.tgz"
-  integrity sha512-JLyh7xT1kizaEvcaXOQwOc2/Yhw6KZOvPf1S8401UyLk86CU79LN3vl7ztXGm/pZ+YjoyAJ4rxmHwbkBXJX+yw==
+path-to-regexp@^8.1.0:
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-8.1.0.tgz#4d687606ed0be8ed512ba802eb94d620cb1a86f0"
+  integrity sha512-Bqn3vc8CMHty6zuD+tG23s6v2kwxslHEhTj4eYaVKGIEB+YX/2wd0/rgXLFD9G9id9KCtbVy/3ZgmvZjpa0UdQ==
 
 path-type@^4.0.0:
   version "4.0.0"
